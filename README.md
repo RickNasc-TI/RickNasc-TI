@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá! Eu sou o Ricardo do Nascimento 👨🏻‍💻
 
-<!--
-**RickNasc-TI/RickNasc-TI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-nascimento-24619892/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0AxbNP7qSRG4Tc1yzdV4wg%3D%3D)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/ricardo-nascimento-24619892/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B0AxbNP7qSRG4Tc1yzdV4wg%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()                 
 
-Here are some ideas to get you started:
+![Rick GitHub stats](https://github-readme-stats.vercel.app/api?username=RickNasc-TI&show_icons=true&theme=merko)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou aprimorando conhecimentos 📚
+
+<div style="display: inline_block"><br/>
+  <img alig="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/><img alig="center" alt="Bootstrap" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><img alig="center" alt="Bootstrap" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><img alig="center" alt="Bootstrap" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img alig="center" alt="Bootstrap" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>                      
+</div>
+
+
