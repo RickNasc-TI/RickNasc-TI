@@ -17,7 +17,7 @@
 <br/>
 
 ## Apaixonado por Musica
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2OSYMAiDYWmswbyQFnG25C?si=0d2bfefc47ea43a2)
+ 🏄🏻‍♂️Surf Music [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2OSYMAiDYWmswbyQFnG25C?si=0d2bfefc47ea43a2)   🎸Hard Rock [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/7zcw0VKGXieY1FNnS2Drtx?si=jYkl06T6T96ZvrHSxKNlIQ)   
 
 
 
