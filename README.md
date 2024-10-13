@@ -30,9 +30,4 @@
 - [Iconify](https://iconify.design/)
 - [Profile Readme Generator](https://profile-readme-generator.com/)
 
-###
-<br clear="both"
-
-<img src="https://raw.githubusercontent.com/RickNasc-TI//RickNasc-TI/output/snake.svg" alt="Snake animation" />
-
 
