@@ -27,4 +27,5 @@
 - [Flaticon](https://www.flaticon.com/)
 - [Devicon](https://devicon.dev/)
 - [Shields.io](https://shields.io/badges)
+- [Iconify](https://iconify.design/)
 
