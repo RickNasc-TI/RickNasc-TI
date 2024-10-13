@@ -28,4 +28,5 @@
 - [Devicon](https://devicon.dev/)
 - [Shields.io](https://shields.io/badges)
 - [Iconify](https://iconify.design/)
+- [Profile Readme Generator](https://profile-readme-generator.com/)
 
